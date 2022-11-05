@@ -3,7 +3,7 @@
 Hello 👋,
 
 Welcome to Tokpock! This is an entrypoint to all it's resources.
-Tokpock is platform to create temporary smart contract wallets for users not on web3 and when they have an account they can recover the funds in the wallet! [Visit the website](https://tokpock-frontend.vercel.app)
+Tokpock is platform to create temporary smart contract wallets for users not on web3 and when they have an account they can recover the funds in the wallet! [Visit the website](https://tokpock-frontend.vercel.app) or [Watch the demo](https://youtu.be/3q6Lx7Tyi2Q)
 
 **Note:** This repo was edited after the Greenhouse Hack 2 Hackathon.
 
